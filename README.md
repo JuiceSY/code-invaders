@@ -35,6 +35,6 @@ Showcasing the particle explosion effects when the player is hit, alongside the 
 <br />
 <br />
 <b>Game Over State:</b> <br/>
-The final screen displaying the total accumulated score, options to return to the menu, and the rare UFO enemy visible in the top right.<br/>
+The final screen displaying the total accumulated score, options to return to the menu, and the rare UFO enemy (highest points btw) visible in the top right.<br/>
 <img src="assets/done.png" height="80%" width="80%" alt="Game Over Screen"/>
 </p>
